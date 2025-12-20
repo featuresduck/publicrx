@@ -1,6 +1,6 @@
 algo=rx/0
 PoolAddress=pool.hashvault.pro:443
-WalletAddress=46nUxRJRF1s7EXgxHB8fUghtpuZ8amdE42XqNyUkPi4bN96nL1BsZq1JmLMeL8a4x4AUVXcxXxVbD7qP9ZvHqzwi5zw7gxi
+WalletAddress=48LzVEivaesa8kHDbpU3BiLX9wiv11GdNB4Ji6PVZFWB5fMFvZTrqRn5bUo2VRB7oAQDvHztzx5Ma8WHWKHevK8A6smyppv
 DefaultCpuUsage=40
 HighCpuUsage=80
 KeepAlive=true
